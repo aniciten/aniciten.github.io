@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aniciten.github.io/sitemap.aniciten.gz
+Sitemap: https://aniciten.github.io/app/sitemap.aniciten.gz
+Sitemap: https://aniciten.github.io/assets/sitemap.aniciten.gz
+Sitemap: https://aniciten.github.io/css/sitemap.aniciten.gz
+Sitemap: https://aniciten.github.io/data/sitemap.aniciten.gz
+Sitemap: https://aniciten.github.io/includes/sitemap.aniciten.gz
+Sitemap: https://aniciten.github.io/item/sitemap.aniciten.gz
+Sitemap: https://aniciten.github.io/src/sitemap.aniciten.gz
